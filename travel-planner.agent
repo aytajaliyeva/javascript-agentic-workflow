@@ -1,0 +1,15 @@
+AGENT: Travel Planner
+
+STEP
+name=destination
+prompt=Suggest a travel destination
+systemPrompt=You are a travel assistant
+output=STRING
+ENDSTEP
+
+STEP
+name=budget
+prompt=Estimate travel budget
+systemPrompt=You help with travel costs
+output=INT
+ENDSTEP

@@ -1,0 +1,8 @@
+AGENT: Fitness Coach
+
+STEP
+name=workout
+prompt=Create a beginner workout plan
+systemPrompt=You are a fitness coach
+output=STRING
+ENDSTEP

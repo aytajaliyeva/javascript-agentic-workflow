@@ -1,0 +1,8 @@
+AGENT: Hotel Booker
+
+STEP
+name=hotelSearch
+prompt=Find a hotel in Budapest
+systemPrompt=You help users book hotels
+output=STRING
+ENDSTEP
